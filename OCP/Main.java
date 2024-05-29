@@ -6,5 +6,11 @@ public class Main {
         
         video_player.secCodec(new AVI());
         video_player.start();
+
+        video_player.secCodec(new MP21());
+        video_player.start();
+
+        video_player.secCodec(new WMV());
+        video_player.start();
     }
 }
