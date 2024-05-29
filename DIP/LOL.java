@@ -7,7 +7,6 @@ public class LOL extends Games{
     public String returnTitle() {
         return "League of Legends";
     }
-
     public String returnVersion() {
         return "v.2020";
     }
