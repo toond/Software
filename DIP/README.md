@@ -8,3 +8,4 @@ Games의 객체를 받아 게임의 제목과 버전(start())을 출력하는 Ga
   
 LOL.java, Racing.java, SuperMario.java, Tetris.java  
 Games.java를 상속 받고 게임 제목과 버전을 returnTitle(), returnVersion() 메서드로 설정  
+
