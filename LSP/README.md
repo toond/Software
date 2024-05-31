@@ -8,3 +8,4 @@ Lecturer 클래스를 상속 받아 강사의 종류를 지정하고 추상 메�
   
 Main.java  
 각 강사별로 객체 생성 후 lecturer() 메서드 실행  
+
