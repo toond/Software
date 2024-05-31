@@ -10,3 +10,4 @@ Video_Player.java
   
 Main.java  
 video_player 객체로 코덱의 종류를 변경하면서 start() 메소드 실행  
+
