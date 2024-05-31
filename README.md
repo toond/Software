@@ -9,5 +9,5 @@ ISP : 인터페이스 분리 원칙
 5원칙 소스 코드 파일 5개 -> 내부 소스 코드 설명 README.md 파일  
 순차도 : OCP, DIP, LSP 원칙 3개   
 실행사진 : OCP, DIP, LSP 원칙 3개   
-클래스도 : SRP, OCP, DIP, LSP, ISP 원칙 5개 -> 클래스도 설명 README.md 파일  
+클래스도 : SRP, OCP, DIP, LSP, ISP 원칙 5개 -> 내부 클래스도 설명 README.md 파일  
 
